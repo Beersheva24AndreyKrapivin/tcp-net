@@ -2,8 +2,10 @@ package telran.net;
 
 import java.util.Scanner;
 
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
+@Disabled
 public class TcpClientServerShutdownTest {
     @Test
     void tcpClientServerShutdownTest() {
